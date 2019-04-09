@@ -1,0 +1,33 @@
+{
+  "name": "codigotoplocadora",
+  "version": "1.0.0",
+  "description": "Exemplo de Front End utilizando uma video locadora",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosRobertoMedeiros/CodigoTopLocadora.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Git",
+    "Gulp",
+    "Yarn"
+  ],
+  "author": "Carlos Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosRobertoMedeiros/CodigoTopLocadora/issues"
+  },
+  "homepage": "https://github.com/CarlosRobertoMedeiros/CodigoTopLocadora#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "bootstrap": "3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
