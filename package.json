@@ -24,7 +24,9 @@
   "homepage": "https://github.com/CarlosRobertoMedeiros/CodigoTopLocadora#readme",
   "dependencies": {
     "angular": "^1.7.8",
-    "bootstrap": "3.3.6"
+    "bootstrap": "3.3.6",
+    "gulp-connect": "^5.7.0",
+    "st": "^1.2.2"
   },
   "devDependencies": {
     "gulp": "^4.0.0",
